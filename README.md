@@ -24,8 +24,11 @@ mir überlegt was meine erste App sein sollte und mit welche Framework ich arbei
 
  ## 21.08
 
+ - [ ] Als Informatikerin werde ich versuchen ein das grobe Design derr App zu Skizzieren.
  - [ ] Als Informatikerin werde ich anfangen die ersten Buttons zu Programmieren, damit meine Vokabel App schon mal was hat
  - [ ] ALs Informatikerin kann ich dann den Buttons Funktionen geben damit Sie etwas bewirken.
- - [ ] Als Informatikerin werde ich versuchen ein das grobe Design derr App zu Skizzieren.
  - [ ] Als Informatikerin werde ich versuchen das Design im Code umzusetzen.
 ☝️ Vergessen Sie nicht, einen ersten Code und Skizze auf github hochzuladen!
+Arbeitspaket dezentral: Ich habe ein grobes Design gemacht wie meine Französisch trainings App sollte aussehen. Dabei habe ich die 3 verschiedenen Bildschirmmöglichkeiten designt:
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-08-20 at 17 57 48" src="https://github.com/user-attachments/assets/3abcaa79-7257-4a3c-b784-e467a2cf3566" />
