@@ -1,4 +1,4 @@
-# # Lernperiode 11
+## Lernperiode 11
 
 14.8 bis 11.9.2024
 
@@ -24,7 +24,7 @@ mir überlegt was meine erste App sein sollte und mit welche Framework ich arbei
 
  ## 21.08
 
- - [ ] Als Informatikerin werde ich versuchen ein das grobe Design derr App zu Skizzieren.
+ - [x] Als Informatikerin werde ich versuchen ein das grobe Design derr App zu Skizzieren.
  - [ ] Als Informatikerin werde ich anfangen die ersten Buttons zu Programmieren, damit meine Vokabel App schon mal was hat
  - [ ] ALs Informatikerin kann ich dann den Buttons Funktionen geben damit Sie etwas bewirken.
  - [ ] Als Informatikerin werde ich versuchen das Design im Code umzusetzen.
