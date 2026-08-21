@@ -44,6 +44,6 @@ public VerbenWindow()
 
 ## 28.08
 
-- [ ] Herausfinden was das problem bei der FUnktion ist.
-- [ ] Die Buttons wirklich zum funktionieren bringen.
-- [ ] Das Design dem Mockup anpassen
+- [ ] Als Entwickler möchte ich die Ursache beim Fenster-Laden beheben, damit die App stabil startet
+- [ ] Als Benutzer möchte ich auf die Buttons klicken können, um Aktionen auszuführe
+- [ ] Als Benutzer möchte ich eine übersichtliche Oberfläche nach Mockup-Vorgabe sehen.
