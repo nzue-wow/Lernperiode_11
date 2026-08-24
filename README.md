@@ -44,6 +44,15 @@ public VerbenWindow()
 
 ## 28.08
 
-- [ ] Als Entwickler möchte ich die Ursache beim Fenster-Laden beheben, damit die App stabil startet
-- [ ] Als Benutzer möchte ich auf die Buttons klicken können, um Aktionen auszuführe
-- [ ] Als Benutzer möchte ich eine übersichtliche Oberfläche nach Mockup-Vorgabe sehen.
+- [x] Als Entwickler möchte ich die Ursache beim Fenster-Laden beheben, damit die App stabil startet
+- [x] Als Benutzer möchte ich auf die Buttons klicken können, um Aktionen auszuführe
+- [x] Als Benutzer möchte ich eine übersichtliche Oberfläche nach Mockup-Vorgabe sehen.
+
+Heute habe ich den Fehler beim Fenster-Laden behoben und die Event-Handler für die Buttons im MainWindow korrigiert, sodass sich VerbenWindow und VokabelnWindow zuverlässig öffnen. Danach habe ich den XAML-Code für zwei Ansichten (Hauptmenü, Übungs-Bildschirm) exakt nach meiner Mockup-Skizze mit Grid, StackPanel und passenden Controls aufgebaut.
+
+## 31.08
+
+- [ ] Als Benutzer möchte ich im Übungs-Bildschirm ein zufälliges Verb samt Personalpronomen angezeigt bekommen, um zu wissen, was ich konjugieren muss.
+- [ ] Als Benutzer möchte ich meine Lösung in das Eingabefeld eintippen und mit dem Button «Überprüfen» kontrollieren können.
+- [ ] Als Entwickler möchte ich die Logik für die Punkteberechnung programmieren, damit richtige und falsche Eingaben korrekt gezählt werden.
+- [ ] Als Benutzer möchte ich am Ende der Übung automatisch zur Auswertungsseite weitergeleitet werden, um meine Fehlerliste zu sehen.
