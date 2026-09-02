@@ -52,7 +52,9 @@ Heute habe ich den Fehler beim Fenster-Laden behoben und die Event-Handler für 
 
 ## 31.08
 
-- [ ] Als Benutzer möchte ich im Übungs-Bildschirm ein zufälliges Verb samt Personalpronomen angezeigt bekommen, um zu wissen, was ich konjugieren muss.
+- [x] Als Benutzer möchte ich im Übungs-Bildschirm ein zufälliges Verb samt Personalpronomen angezeigt bekommen, um zu wissen, was ich konjugieren muss.
 - [ ] Als Benutzer möchte ich meine Lösung in das Eingabefeld eintippen und mit dem Button «Überprüfen» kontrollieren können.
 - [ ] Als Entwickler möchte ich die Logik für die Punkteberechnung programmieren, damit richtige und falsche Eingaben korrekt gezählt werden.
 - [ ] Als Benutzer möchte ich am Ende der Übung automatisch zur Auswertungsseite weitergeleitet werden, um meine Fehlerliste zu sehen.
+
+Dezentral Arbeitspaket: Ich habe eine json Datei hinzugefügt mit der jetzt das Programm verbunden ist und immer random ein Verb herausnimmt und anzeigt. Ebenfalls wird das Pronomen auch random zugeteilt. Bis jetzt ist alles noch im infinitiv.
