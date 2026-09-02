@@ -1,4 +1,4 @@
-## Lernperiode 11
+qqa## Lernperiode 11
 
 14.8 bis 11.9.2024
 
@@ -57,4 +57,4 @@ Heute habe ich den Fehler beim Fenster-Laden behoben und die Event-Handler für 
 - [ ] Als Entwickler möchte ich die Logik für die Punkteberechnung programmieren, damit richtige und falsche Eingaben korrekt gezählt werden.
 - [ ] Als Benutzer möchte ich am Ende der Übung automatisch zur Auswertungsseite weitergeleitet werden, um meine Fehlerliste zu sehen.
 
-Dezentral Arbeitspaket: Ich habe eine json Datei hinzugefügt mit der jetzt das Programm verbunden ist und immer random ein Verb herausnimmt und anzeigt. Ebenfalls wird das Pronomen auch random zugeteilt. Bis jetzt ist alles noch im infinitiv.
+Dezentral Arbeitspaket: Ich habe eine json Datei hinzugefügt mit der jetzt das Programm verbunden ist und immer random ein Verb herausnimmt und anzeigt. Das Pronomen auch random zugeteilt. Bis jetzt ist alles noch im infinitiv.
