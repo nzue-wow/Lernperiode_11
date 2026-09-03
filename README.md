@@ -1,4 +1,4 @@
-qqa## Lernperiode 11
+## Lernperiode 11
 
 14.8 bis 11.9.2024
 
