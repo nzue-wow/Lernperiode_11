@@ -50,11 +50,18 @@ public VerbenWindow()
 
 Heute habe ich den Fehler beim Fenster-Laden behoben und die Event-Handler für die Buttons im MainWindow korrigiert, sodass sich VerbenWindow und VokabelnWindow zuverlässig öffnen. Danach habe ich den XAML-Code für zwei Ansichten (Hauptmenü, Übungs-Bildschirm) exakt nach meiner Mockup-Skizze mit Grid, StackPanel und passenden Controls aufgebaut.
 
-## 31.08
+## 04.09
 
 - [x] Als Benutzer möchte ich im Übungs-Bildschirm ein zufälliges Verb samt Personalpronomen angezeigt bekommen, um zu wissen, was ich konjugieren muss.
-- [ ] Als Benutzer möchte ich meine Lösung in das Eingabefeld eintippen und mit dem Button «Überprüfen» kontrollieren können.
-- [ ] Als Entwickler möchte ich die Logik für die Punkteberechnung programmieren, damit richtige und falsche Eingaben korrekt gezählt werden.
-- [ ] Als Benutzer möchte ich am Ende der Übung automatisch zur Auswertungsseite weitergeleitet werden, um meine Fehlerliste zu sehen.
+- [x] Als Benutzer möchte ich meine Lösung in das Eingabefeld eintippen und mit dem Button «Überprüfen» kontrollieren können.
+- [x] Als Entwickler möchte ich die Logik für die Punkteberechnung programmieren, damit richtige und falsche Eingaben korrekt gezählt werden.
+- [x] Als Benutzer möchte ich am Ende der Übung automatisch zur Auswertungsseite weitergeleitet werden, um meine Fehlerliste zu sehen.
 
 Dezentral Arbeitspaket: Ich habe eine json Datei hinzugefügt mit der jetzt das Programm verbunden ist und immer random ein Verb herausnimmt und anzeigt. Das Pronomen auch random zugeteilt. Bis jetzt ist alles noch im infinitiv.
+Ich habe das Eingabefeld mit dem Button „Überprüfen“ verbunden und die Lösungen der Verben in der JSON-Datei ergänzt. Die eingegebene Antwort wird nun kontrolliert und als richtig oder falsch gezählt. Nach zehn Aufgaben öffnet sich automatisch die Auswertungsseite, auf der die erreichten Punkte und alle Fehler mit den richtigen Lösungen angezeigt werden.
+
+## 11.09
+
+- [ ] Als Benutzerin möchte ich, dass die Texte auf der Auswertungsseite eine gut sichtbare Farbe besitzen, damit ich die Punkte und die Fehlerliste problemlos lesen kann.
+- [ ] Als Entwicklerin möchte ich die Vokabeln in einer JSON-Datei speichern und diese mit dem Vokabeltrainer verbinden, damit neue Vokabeln einfach hinzugefügt und vom Programm geladen werden können.
+- [ ] Als Benutzerin möchte ich über den Button „Tipp“ eine hilfreiche Unterstützung zur aktuellen Aufgabe erhalten, damit ich die Lösung finden kann, wenn ich nicht weiterweiss.
