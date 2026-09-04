@@ -1,62 +1,82 @@
 [
-  {
-    "infinitiv": "parler"
-  },
-  {
-    "infinitiv": "finir"
-  },
-  {
-    "infinitiv": "prendre"
-  },
-  {
-    "infinitiv": "faire"
-  },
-  {
-    "infinitiv": "aller"
-  },
-  {
-    "infinitiv": "avoir"
-  },
-  {
-    "infinitiv": "être"
-  },
-  {
-    "infinitiv": "savoir"
-  },
     {
-    "infinitiv": "venir"
-  },
-  {
-    "infinitiv": "voir"
-  },
-  {
-    "infinitiv": "vouloir"
-  },
-  {
-    "infinitiv": "devoir"
-  },
-  {
-    "infinitiv": "pouvoir"
-  },
-  {
-    "infinitiv": "mettre"
-  },
-  {
-    "infinitiv": "dire"
-  },
-  {
-    "infinitiv": "partir"
-  },
-  {
-    "infinitiv": "sortir"
-  },
-  {
-    "infinitiv": "lire"
-  },
-  {
-    "infinitiv": "écrire"
-  },
-  {
-    "infinitiv": "connaître"
-  }
+        "infinitiv": "parler",
+        "formen": [ "parle", "parles", "parle", "parlons", "parlez", "parlent" ]
+    },
+    {
+        "infinitiv": "finir",
+        "formen": [ "finis", "finis", "finit", "finissons", "finissez", "finissent" ]
+    },
+    {
+        "infinitiv": "prendre",
+        "formen": [ "prends", "prends", "prend", "prenons", "prenez", "prennent" ]
+    },
+    {
+        "infinitiv": "faire",
+        "formen": [ "fais", "fais", "fait", "faisons", "faites", "font" ]
+    },
+    {
+        "infinitiv": "aller",
+        "formen": [ "vais", "vas", "va", "allons", "allez", "vont" ]
+    },
+    {
+        "infinitiv": "avoir",
+        "formen": [ "ai", "as", "a", "avons", "avez", "ont" ]
+    },
+    {
+        "infinitiv": "être",
+        "formen": [ "suis", "es", "est", "sommes", "êtes", "sont" ]
+    },
+    {
+        "infinitiv": "savoir",
+        "formen": [ "sais", "sais", "sait", "savons", "savez", "savent" ]
+    },
+    {
+        "infinitiv": "venir",
+        "formen": [ "viens", "viens", "vient", "venons", "venez", "viennent" ]
+    },
+    {
+        "infinitiv": "voir",
+        "formen": [ "vois", "vois", "voit", "voyons", "voyez", "voient" ]
+    },
+    {
+        "infinitiv": "vouloir",
+        "formen": [ "veux", "veux", "veut", "voulons", "voulez", "veulent" ]
+    },
+    {
+        "infinitiv": "devoir",
+        "formen": [ "dois", "dois", "doit", "devons", "devez", "doivent" ]
+    },
+    {
+        "infinitiv": "pouvoir",
+        "formen": [ "peux", "peux", "peut", "pouvons", "pouvez", "peuvent" ]
+    },
+    {
+        "infinitiv": "mettre",
+        "formen": [ "mets", "mets", "met", "mettons", "mettez", "mettent" ]
+    },
+    {
+        "infinitiv": "dire",
+        "formen": [ "dis", "dis", "dit", "disons", "dites", "disent" ]
+    },
+    {
+        "infinitiv": "partir",
+        "formen": [ "pars", "pars", "part", "partons", "partez", "partent" ]
+    },
+    {
+        "infinitiv": "sortir",
+        "formen": [ "sors", "sors", "sort", "sortons", "sortez", "sortent" ]
+    },
+    {
+        "infinitiv": "lire",
+        "formen": [ "lis", "lis", "lit", "lisons", "lisez", "lisent" ]
+    },
+    {
+        "infinitiv": "écrire",
+        "formen": [ "écris", "écris", "écrit", "écrivons", "écrivez", "écrivent" ]
+    },
+    {
+        "infinitiv": "connaître",
+        "formen": [ "connais", "connais", "connaît", "connaissons", "connaissez", "connaissent" ]
+    }
 ]
