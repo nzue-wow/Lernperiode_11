@@ -62,6 +62,7 @@ Ich habe das Eingabefeld mit dem Button „Überprüfen“ verbunden und die Lö
 
 ## 11.09
 
-- [ ] Als Benutzerin möchte ich, dass die Texte auf der Auswertungsseite eine gut sichtbare Farbe besitzen, damit ich die Punkte und die Fehlerliste problemlos lesen kann.
+- [x] Als Benutzerin möchte ich, dass die Texte auf der Auswertungsseite eine gut sichtbare Farbe besitzen, damit ich die Punkte und die Fehlerliste problemlos lesen kann.
 - [ ] Als Entwicklerin möchte ich die Vokabeln in einer JSON-Datei speichern und diese mit dem Vokabeltrainer verbinden, damit neue Vokabeln einfach hinzugefügt und vom Programm geladen werden können.
 - [ ] Als Benutzerin möchte ich über den Button „Tipp“ eine hilfreiche Unterstützung zur aktuellen Aufgabe erhalten, damit ich die Lösung finden kann, wenn ich nicht weiterweiss.
+dezentral: Ich habe das erste arbeitspaket gemacht: Somit kann man jetzt den Text auf der auswertungsseite auch wirklich lesen. Auch das VErb beim Abfragen ist nun lesbar, in dem ich die farb codes gändert habe. SCROLLEN GEHT NICHT
