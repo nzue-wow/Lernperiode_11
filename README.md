@@ -84,9 +84,9 @@ Ich habe das Eingabefeld mit dem Button „Überprüfen“ verbunden und die Lö
 ## 11.09
 
 - [x] Als Benutzerin möchte ich, dass die Texte auf der Auswertungsseite eine gut sichtbare Farbe besitzen, damit ich die Punkte und die Fehlerliste problemlos lesen kann.
-- [ ] Als Entwicklerin möchte ich die Vokabeln in einer JSON-Datei speichern und diese mit dem Vokabeltrainer verbinden, damit neue Vokabeln einfach hinzugefügt und vom Programm geladen werden können.
-- [ ] Als Benutzerin möchte ich das die VOkabeln in einer Runde nur einmal drankommt, damit ich nicht immer die gleihcen bekomme.
-dezentral: Ich habe das erste arbeitspaket gemacht: Somit kann man jetzt den Text auf der auswertungsseite auch wirklich lesen. Auch das VErb beim Abfragen ist nun lesbar, in dem ich die farb codes gändert habe. In einer RUnde kommen alle wörter dran und auch nie doppelt. Sie werden wie beim Verben konjugieren am shcluss korriegiert und das Resultat wird angezeigt.
+- [x] Als Entwicklerin möchte ich die Vokabeln in einer JSON-Datei speichern und diese mit dem Vokabeltrainer verbinden, damit neue Vokabeln einfach hinzugefügt und vom Programm geladen werden können.
+- [x] Als Benutzerin möchte ich das die VOkabeln in einer Runde nur einmal drankommt, damit ich nicht immer die gleihcen bekomme.
+dezentral: Ich habe das erste arbeitspaket gemacht: Somit kann man jetzt den Text auf der auswertungsseite auch wirklich lesen. Auch das Verb beim Abfragen ist nun lesbar, in dem ich die farb codes gändert habe. In einer RUnde kommen alle wörter dran und auch nie doppelt. Sie werden wie beim Verben konjugieren am shcluss korriegiert und das Resultat wird angezeigt.
 Ich habe das Vokabeln PRogramm zum funktionieren gebracht. ICH ahbe ein json Datei mit wichtigen Wörter gefüllt die jetzt im Programm abgefragt werden.
 
 
