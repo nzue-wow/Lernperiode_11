@@ -19,6 +19,7 @@ In meinem Französichtrainer kann man Verben konjugieren und Vokabeln üben.
 <img width="800" height="1358" alt="image" src="https://github.com/user-attachments/assets/ed4617a5-94af-4226-b29c-13ec641f5385" />
 
 Verben konjugieren:
+
 <img width="794" height="1364" alt="image" src="https://github.com/user-attachments/assets/925e7e0d-fe4b-4c6e-8ec4-4e3e2dffb11a" />
 
 Das Auswertungsfenster:
