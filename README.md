@@ -12,6 +12,26 @@
    
 7. Wie unterscheidet sich dieses Projekt von Ihrem Projekt in 335; und wo ergänzen sich diese Projekte?
 
+## Feriges Projekt
+In meinem Französichtrainer kann man Verben konjugieren und Vokabeln üben. 
+
+
+<img width="800" height="1358" alt="image" src="https://github.com/user-attachments/assets/ed4617a5-94af-4226-b29c-13ec641f5385" />
+
+Verben konjugieren:
+<img width="794" height="1364" alt="image" src="https://github.com/user-attachments/assets/925e7e0d-fe4b-4c6e-8ec4-4e3e2dffb11a" />
+
+Das Auswertungsfenster:
+<img width="886" height="1352" alt="image" src="https://github.com/user-attachments/assets/9bd7d846-b1f2-4e64-a5ea-90f90027cfdf" />
+
+Vokabeln:
+<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/6ec51afd-ccef-484f-89b1-4f1767290dcc" />
+
+Man kann in den json Dateien immer mehr Wörter hinzu fügen.
+
+### Verbesserungs Möglichkeiten: 
+Dem Programm fehlt noch die Scrollfunktion. Dann wäre es passsend das es die Wörter direkt kontrolliert und man das Wort direkt nochmal muss schreiben. Zum lernen sollte es auch verschiedene Runden geben wo die Wörter wiederholt werden wo man oft falsch macht. Das Programm sollte auch den Lernstand speichern damit man an dem Punkt weiter machen kann wo man aufgehört hat. Man soll auch die Möglichkeit haben den Lernprozess von neu zu starten. Es soll auch noch eine Liste haben wo man alle Wörter schön aufgeklistet mit den Überstzungen/konjugationen aufgezeigt ist.
+
 ## 14.8
 
 - [x] Als Schlülerin möchte ich Avalonia installiert haben damit ich mit meinem Projekt starten kann.
@@ -64,5 +84,8 @@ Ich habe das Eingabefeld mit dem Button „Überprüfen“ verbunden und die Lö
 
 - [x] Als Benutzerin möchte ich, dass die Texte auf der Auswertungsseite eine gut sichtbare Farbe besitzen, damit ich die Punkte und die Fehlerliste problemlos lesen kann.
 - [ ] Als Entwicklerin möchte ich die Vokabeln in einer JSON-Datei speichern und diese mit dem Vokabeltrainer verbinden, damit neue Vokabeln einfach hinzugefügt und vom Programm geladen werden können.
-- [ ] Als Benutzerin möchte ich über den Button „Tipp“ eine hilfreiche Unterstützung zur aktuellen Aufgabe erhalten, damit ich die Lösung finden kann, wenn ich nicht weiterweiss.
-dezentral: Ich habe das erste arbeitspaket gemacht: Somit kann man jetzt den Text auf der auswertungsseite auch wirklich lesen. Auch das VErb beim Abfragen ist nun lesbar, in dem ich die farb codes gändert habe. SCROLLEN GEHT NICHT
+- [ ] Als Benutzerin möchte ich das die VOkabeln in einer Runde nur einmal drankommt, damit ich nicht immer die gleihcen bekomme.
+dezentral: Ich habe das erste arbeitspaket gemacht: Somit kann man jetzt den Text auf der auswertungsseite auch wirklich lesen. Auch das VErb beim Abfragen ist nun lesbar, in dem ich die farb codes gändert habe. In einer RUnde kommen alle wörter dran und auch nie doppelt. Sie werden wie beim Verben konjugieren am shcluss korriegiert und das Resultat wird angezeigt.
+Ich habe das Vokabeln PRogramm zum funktionieren gebracht. ICH ahbe ein json Datei mit wichtigen Wörter gefüllt die jetzt im Programm abgefragt werden.
+
+
